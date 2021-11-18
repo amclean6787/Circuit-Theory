@@ -42,7 +42,7 @@ The setup for the Circuit theory analysis was conducted in R, the CT analysis it
 
 * Reference -> Reference data, including sailing speed reference grids (Appendix A) and direction, speed ranges and month lists. These are used for the R code
 
-## Author and Contact
+## Authors and Contact
 This repository was created by Andrew McLean, in order to provide access to source code and supplementary data.
 
 Andrew McLean-
