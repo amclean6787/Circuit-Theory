@@ -22,7 +22,7 @@ The setup for the Circuit theory analysis was conducted in R, the CT analysis it
 * ggrepel
 
 ## Process
-* Download the datasets from
+* Download the datasets from : https://figshare.com/s/54520aef258b61ce1e10
 * Ensure inputs and source code are within the same root folder
 * Run the cost surface maps R script to set up raster data
 * Run the Julia scripts to perform CT analysis
