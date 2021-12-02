@@ -27,7 +27,7 @@ The setup for the Circuit theory analysis was conducted in R, the CT analysis it
 * Run the cost surface maps R script to set up raster data
 * Run the Julia scripts to perform CT analysis
 * Run the current values R script to calulate and visualise the current values for various scenarios and sites
-* Outputs are stored in the respecitve output folders (the original results are included
+* Outputs are stored in the respecitve output folders (the original results are included)
 
 ## Data Structure
 * Cost Surface -> Data for generating cost surface raster maps
@@ -43,13 +43,18 @@ The setup for the Circuit theory analysis was conducted in R, the CT analysis it
 * Reference -> Reference data, including sailing speed reference grids (Appendix A) and direction, speed ranges and month lists. These are used for the R code
 
 ## Authors and Contact
-This repository was created by Andrew McLean, in order to provide access to source code and supplementary data.
-
 Andrew McLean-
 
 
    University of Edinburgh
   
   
-   Andrew.McLean@ed.ac.uk
+   andrew.mclean@ed.ac.uk
+   
+Xavier Rubio Campillo
 
+
+   University of Barcelona
+    
+    
+   xrubio@ub.edu
